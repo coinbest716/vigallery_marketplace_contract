@@ -1,2 +1,2 @@
-# ownership-contract
-smart contracts for ownership platform
+# ViGALLERY
+smart contracts for ViGALLERY sites.
